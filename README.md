@@ -5,7 +5,7 @@ To design and implement a comprehensive phishing email attack simulation project
 
 ## Skills and Tools used
 1. Social Engineering Tactics
-2. Email Spoofing and Forgery  
+2. Email Spoofing and Forgery  - Burp Suite or manual SMTP manipulation.
 3. Crafting Persuasive Content  
 4. Malware and Payload Delivery - (keyloggers, ransomware)
 5. Understanding and Bypassing Security Measures  - (spam filters, sandboxing)
