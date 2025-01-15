@@ -16,8 +16,6 @@ To design and implement a comprehensive phishing email attack simulation project
 
     
 ## Steps & procedure
-Gain knowledge about embedding malicious payloads (e.g., keyloggers, ransomware) within attachments or links while bypassing antivirus and email security filters.  
-
- Social Engineering Tactics aligns with the Techniques, Tactics, and Procedures (TTPs) at the top of the Pyramid of Pain in security architecture where social engineering directly addresses human vulnerabilities,   which are among the most challenging and impactful elements to defend against in cybersecurity.. Therefore regular monitoring should ne mandatory in every organization
- deep understanding and continuous education necessitates behavioral analytics to detect anomalies, such as unusual clicks or downloads initiated due to phishing.
+Embedding malicious payloads (e.g., keyloggers, ransomware) within attachments or links while bypassing antivirus and email security filters.  
+Social Engineering Tactics aligns Techniques, Tactics, and Procedures (TTPs) at the top of the Pyramid of Pain in security architecture where social engineering directly addresses human vulnerabilities and human element, which are among the most challenging and impactful attack to defend against in cybersecurity.. Therefore regular monitoring should ne mandatory in every organization with deep understanding and continuous education necessitates along with behavioral analytics to detect anomalies, such as unusual clicks or downloads initiated due to phishing.
 
