@@ -12,7 +12,7 @@ To design and implement a comprehensive phishing email attack simulation project
 | Payload Generators                                  |  Metasploit                                |
 | Virtual Machines                                    |  kali , Ubuntu , Parrot OS                 |
 | Domain Name Generators                              |  DNSTwist                                  |
-| Understanding and Bypassing Security Measures       |  Spam filters, sandboxing                  |
+| Bypassing Security Measures                         |  Spam filters, sandboxing                  |
 
     
 ## Steps & procedure
