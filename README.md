@@ -9,4 +9,4 @@ To design and implement a comprehensive phishing email attack simulation project
 ## Tools used
 
 
-## Stes & procedure
+## Steps & procedure
