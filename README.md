@@ -9,9 +9,10 @@ To design and implement a comprehensive phishing email attack simulation project
 |-----------------------------------------------------|--------------------------------------------|
 | Malware and Payload Delivery                        |  keyloggers, ransomware                    |
 | Email Spoofing and Forgery                          |  Burp Suite or manual SMTP manipulation    |
+| Payload Generators                                  |  Metasploit                                |
+| Virtual Machines                                    |  kali , Ubuntu , Parrot OS                 |
+| Domain Name Generators                              |  DNSTwist                                  |
 | Understanding and Bypassing Security Measures       |  Spam filters, sandboxing                  |
-| Crafting Persuasive Content                         |                                            |
-| Social Engineering Tactics                          |                                            |
 
     
 ## Steps & procedure
