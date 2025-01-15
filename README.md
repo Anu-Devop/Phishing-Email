@@ -1,15 +1,18 @@
 # Phishing-Email Attack
 
+
 ## Objective
 To design and implement a comprehensive phishing email attack simulation project, which include images that demonstrates the identification, analysis, and mitigation of phishing threats. This project aims to raise awareness of how malicious attackers can craft deceptive emails with look alike file extensions or links to establish unauthorized connections to individuals' PCs. It highlights the tactics used by attackers and showcases effective detection methods and defense strategies, ultimately enhancing understanding and resilience against phishing attacks by simulating real-world attack scenarios.
+
   
-## Skills and Tools used
-|-----------------------------------------------|----------------------------|
-| Malware and Payload Delivery                  |  keyloggers, ransomware    |
-| Email Spoofing and Forgery                    |  Burp Suite or manual SMTP manipulation    |
-| Understanding and Bypassing Security Measures |  Spam filters, sandboxing|
-| Crafting Persuasive Content                   |                            |
-| Social Engineering Tactics                    |                            |
+| ## Skills                                           |          Tools used                        |
+|-----------------------------------------------------|--------------------------------------------|
+| Malware and Payload Delivery                        |  keyloggers, ransomware                    |
+| Email Spoofing and Forgery                          |  Burp Suite or manual SMTP manipulation    |
+| Understanding and Bypassing Security Measures       |  Spam filters, sandboxing                  |
+| Crafting Persuasive Content                         |                                            |
+| Social Engineering Tactics                          |                                            |
+
     
 ## Steps & procedure
 Gain knowledge about embedding malicious payloads (e.g., keyloggers, ransomware) within attachments or links while bypassing antivirus and email security filters.  
