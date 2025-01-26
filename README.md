@@ -1,7 +1,7 @@
 # Phishing Attack using social engineering
 
 ## Defination
-Phishing attack is a malicious/deception tactics used by bad actors to collect all kinds of compromising or sensitive information like password credentials or personal data by tricking the target to bite the bait, which could either be a fake website, Link or email.
+Phishing attack is a malicious/deceptive tactics used by bad actors to collect all kinds of compromising or sensitive information like password credentials or personal data by tricking the target to bite the bait, which could either be a fake website, Link or email.
 
 
 ## Objective
