@@ -5,7 +5,7 @@ Phishing attack is a malicious/deceptive tactics used by bad actors to collect a
 
 
 ## Objective
-To promote cybersecurity awareness by demsonstrting how simple it is for attackers to create and deliver a phishing website to manipulate human behavior- Tactics, Techniques and Procedures(TTPs) which is the toughest level on the Pyramid of Pain to penetrate in any organization IT security architecture.
+To promote cybersecurity awareness by demonstrating how simple it is for attackers to create and deliver a phishing website to manipulate human behavior- Tactics, Techniques and Procedures(TTPs) which is the toughest level on the Pyramid of Pain to penetrate in any organization IT security architecture.
 
   
 |    Skills                                           |          Tools used                        |
