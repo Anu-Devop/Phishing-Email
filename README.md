@@ -1,8 +1,8 @@
-# Phishing-Email Attack
+# Phishing Email using social engineering
 
 
 ## Objective
-To design and implement a comprehensive phishing email attack simulation project, which include images that demonstrates the identification, analysis, and mitigation of phishing threats. This project aims to raise awareness of how malicious attackers can craft deceptive emails with look alike file extensions or links to establish unauthorized connections to individuals' PCs. It highlights the tactics used by attackers and showcases effective detection methods and defense strategies, ultimately enhancing understanding and resilience against phishing attacks by simulating real-world attack scenarios.
+To promote cybersecurity awareness by demsonstrting how simple it is for attackers to create and deliver a phishing website to manipulate human behavior- Tactics, Techniques and Procedures(TTPs) which is the toughest level on the Pyramid of Pain to penetrate in any organization IT security architecture.
 
   
 |    Skills                                           |          Tools used                        |
