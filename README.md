@@ -7,7 +7,7 @@ To promote cybersecurity awareness by demsonstrting how simple it is for attacke
   
 |    Skills                                           |          Tools used                        |
 |-----------------------------------------------------|--------------------------------------------|
-| Malware and Payload Delivery                        |  keyloggers, ransomware                    |
+| Virtual Machines ( kali)                                    |  keyloggers, ransomware, Open sourse tool - blackeye                   |
 | Email Spoofing and Forgery                          |  Burp Suite or manual SMTP manipulation    |
 | Payload Generators                                  |  Metasploit                                |
 | Virtual Machines                                    |  kali , Ubuntu , Parrot OS                 |
